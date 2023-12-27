@@ -47,7 +47,7 @@ def record_command():
 def Listen_to_wakeup_word():
     """
     Listen_to_wakeup_word() uses pocketsphinx's LiveSpeech to listen in the background for a wakeup word.
-    when wake up word is detected calls record_command()
+    when wake up word is detected calls record_command().
 
     """
     wakeup_word = "sesame"
