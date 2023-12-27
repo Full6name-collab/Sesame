@@ -74,8 +74,7 @@ For more information check out these libraries :
 
 
 ## Author:
-Mohamed Saaid from
-Salem, NH, U.S.
+Mohamed Saaid
 
 
 
